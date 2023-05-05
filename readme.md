@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/77344191/223635130-afb01b51-98ee-45c6-
 ## Features
 - User-friendly interface for making requests to the OpenAI API
 - Responses are displayed in a chat-like format
-- Select Models (Davinci, Codex, DALL·E, Whisper) based on your needs
+- Select Models (Davinci, DALL·E, Whisper) based on your needs
 - Create AI Images (DALL·E)
 - Audio-Text Transcribe (Whisper)
 - Highlight code syntax
